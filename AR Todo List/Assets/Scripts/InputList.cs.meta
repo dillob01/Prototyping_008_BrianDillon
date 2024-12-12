@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 592f7cd6b2062d949a68daf41e35f090
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _physicalListPrefab: {fileID: 8030999953277971843, guid: c6bdb4604b1cb2b4cb47d3fbe590940c,
+      type: 3}
+  - _newListToggle: {fileID: 6009228960530535451, guid: 4c26ec26d7012cb47b8c0e1f9b476c52,
+      type: 3}
+  - _returnButton: {fileID: 3792065384514704897, guid: dd9bd688364a2834090394385ba413e8,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

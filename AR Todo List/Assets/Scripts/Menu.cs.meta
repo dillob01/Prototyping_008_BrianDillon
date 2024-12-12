@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a7ccb174a334a14dbefba1f45780160
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _inputLists: {instanceID: 0}
+  - _newMenuTogglePrefab: {fileID: 4262592734000086142, guid: 1a821eb8f6aacad488f9518f828186a2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

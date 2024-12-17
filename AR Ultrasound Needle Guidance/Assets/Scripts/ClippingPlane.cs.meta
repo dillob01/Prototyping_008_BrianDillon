@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 98a5800c0fbfbf948b2e43b82528da83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _crossSectionMaterial: {fileID: 2100000, guid: 43ef73b915e16894f8d0bbeaf39cd661,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
